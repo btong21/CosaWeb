@@ -1,0 +1,45 @@
+#team {
+	background: blue;
+}
+
+#contact {
+	background: blue;
+}
+
+.logo {
+	width: 350px;
+	margin-bottom: 100px;
+}
+
+.navlogo {
+	/*width: 200px;*/
+	height: 25px;
+}
+
+.navbar-custom {
+	background: white;
+}
+
+.navbar-custom a{
+	color: #4b4b4c;
+}
+
+.btn-default {
+	background: #005ca5;
+}
+
+.btn-default:hover {
+	background-color: #404041;
+}
+
+hr {
+	background: #005ca5;
+}
+
+.btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
+	background-color: #005ca5;
+}
+
+#contact .btn-default:hover, #contact .btn-default:focus {
+	background-color: #005ca5;
+}
