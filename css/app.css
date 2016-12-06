@@ -1,3 +1,7 @@
+body {
+	color: #4b4b4c;
+}
+
 #team {
 	background: blue;
 }
@@ -12,7 +16,6 @@
 }
 
 .navlogo {
-	/*width: 200px;*/
 	height: 25px;
 }
 
@@ -42,4 +45,8 @@ hr {
 
 #contact .btn-default:hover, #contact .btn-default:focus {
 	background-color: #005ca5;
+}
+
+#services i.fa {
+	color: #005ca5;
 }
