@@ -50,3 +50,11 @@ hr {
 #services i.fa {
 	color: #005ca5;
 }
+
+.titlesmall {
+	text-align: left;
+}
+
+.subtitle {
+	margin-top: 100px;
+}
