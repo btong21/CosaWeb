@@ -1,13 +1,13 @@
 body {
-	color: #4b4b4c;
+	color: #555;
 }
 
 #team {
-	background: lightgrey;
+	background: white;
 }
 
 #contact {
-	background: lightgrey;
+	background: white;
 }
 
 .logo {
@@ -24,7 +24,7 @@ body {
 }
 
 .navbar-custom a{
-	color: #4b4b4c;
+	color: #555;
 }
 
 .btn-default {
@@ -64,7 +64,7 @@ hr {
 }
 
 .table {
-	width: 600px;
+	width: 400px;
 }
 
 
@@ -72,4 +72,14 @@ hr {
 	margin-top: 150px; 
 	margin-left:50px;
 	margin-right: 50px;
+}
+
+#services h2, #services h3, #services p {
+	color: #555;
+}
+
+.formm {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 400px;
 }
