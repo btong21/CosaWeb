@@ -3,11 +3,11 @@ body {
 }
 
 #team {
-	background: blue;
+	background: lightgrey;
 }
 
 #contact {
-	background: blue;
+	background: lightgrey;
 }
 
 .logo {
@@ -57,4 +57,19 @@ hr {
 
 .subtitle {
 	margin-top: 100px;
+}
+
+.partners {
+	width:1920px;
+}
+
+.table {
+	width: 600px;
+}
+
+
+#about p {
+	margin-top: 150px; 
+	margin-left:50px;
+	margin-right: 50px;
 }
