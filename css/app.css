@@ -55,8 +55,12 @@ hr {
 	text-align: left;
 }
 
-.subtitle {
-	margin-top: 100px;
+.subtitlecase {
+	margin-top: 80px;
+}
+
+.subtitlecasedes {
+	text-align: center;
 }
 
 .partners {
@@ -82,4 +86,13 @@ hr {
 	margin-top: 50px;
 	margin-bottom: 50px;
 	width: 400px;
+}
+
+.partnertext {
+	margin-bottom: 60px;
+	margin-top: 100px;
+}
+
+#footer {
+	margin-top: 60px;
 }
