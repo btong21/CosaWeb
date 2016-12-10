@@ -63,8 +63,8 @@ hr {
 	text-align: center;
 }
 
-.partners {
-	width:1920px;
+.full-width {
+	width: 100%;
 }
 
 .table {
@@ -73,12 +73,13 @@ hr {
 
 
 #about p {
-	margin-top: 150px; 
+	margin-top: 150px;
 	margin-left:50px;
 	margin-right: 50px;
 }
 
-#services h2, #services h3, #services p {
+#services h2, #services h3, #services p,
+#testimonials h2, #testimonials h3, #testimonials p {
 	color: #555;
 }
 
